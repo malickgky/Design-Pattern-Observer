@@ -1,4 +1,4 @@
-package com.icodi.obs;
+package com.lamah.obs;
 
 public class ObserverImpl1 implements Observer {
     @Override

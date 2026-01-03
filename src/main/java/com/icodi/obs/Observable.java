@@ -1,4 +1,4 @@
-package com.icodi.obs;
+package com.lamah.obs;
 
 public interface Observable {
     void subscribe(Observer observer);

@@ -1,4 +1,4 @@
-package com.icodi.obs;
+package com.lamah.obs;
 
 import java.util.ArrayList;
 import java.util.List;
